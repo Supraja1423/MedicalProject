@@ -60,7 +60,7 @@ This project demonstrates full-stack development, database integration, API comm
 
 ## Screenshots  
 ![Login Page](https://github.com/Supraja1423/MedicalProject/blob/e5e2f7aaf6d41de42c046c01d3178f93b320cd2c/static/Screenshot%20(504).png)  
-![Dashboard](path/to/dashboard.png)  
+![Pincode](https://github.com/Supraja1423/MedicalProject/blob/c683d707525f98c520d8b621681356dbe7fb3616/static/Screenshot%20(1).png)  
 ![Prediction Module](path/to/prediction.png)  
 
 ---
