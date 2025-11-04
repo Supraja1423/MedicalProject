@@ -59,8 +59,6 @@ This project demonstrates full-stack development, database integration, API comm
 ---
 
 ## Screenshots  
-*(Add your website / dashboard screenshots below)*  
-
 ![Login Page](path/to/login.png)  
 ![Dashboard](path/to/dashboard.png)  
 ![Prediction Module](path/to/prediction.png)  
