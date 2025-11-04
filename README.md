@@ -68,7 +68,7 @@ This project demonstrates full-stack development, database integration, API comm
 ---
 
 ## License
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License**. See [LICENSE](https://github.com/Supraja1423/MedicalProject/blob/d491f7f80f81b1bd77721767eb2c537029a5b7ee/LICENSE) for details.
 
 ---
 
